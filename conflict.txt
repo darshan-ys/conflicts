@@ -1,1 +1,3 @@
 how to over come conflicts
+file1
+file2
